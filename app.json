@@ -8,7 +8,7 @@
     "plugins": [
       "expo-router"
     ],
-    "name": "fason_job_app",
+    "name": "Job App",
     "slug": "fason_job_app"
   }
 }
